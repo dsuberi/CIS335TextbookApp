@@ -14,7 +14,7 @@ CAN BE MODIFIED AT ANY POINT BY ANY MEMBER OF THE PROJECT TEAM
 
 - Implement a MySQL database to hold all of the information about textbooks, clients, purchase history, etc.
 
--Users can bookmark specific textbooks and get notified when someone puts a copy up for sale.
+- Users can bookmark specific textbooks and get notified when someone puts a copy up for sale.
 - Users can customize profile with a variety of relevant options
 - Users can rent a book, requiring them to return it to the original owner by a specified date.
 - Users can use location services to help users find people who are offering books.
