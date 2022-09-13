@@ -1,0 +1,20 @@
+KEY NOTES FOR THE TEXTBOOK APPLICATION PROJECT
+CAN BE MODIFIED AT ANY POINT BY ANY MEMBER OF THE PROJECT TEAM
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+- Users can upload textbook they want to sell
+- Users can specify detail about book (condition, written in, new, etc.)
+- Users can sort their searches by title, ISBN, class name, professor
+- Users can filter searches by price
+- Messaging feature for purchasing textbooks
+- Determine your own payment method through this
+
+- Users can communicate with one another on the application to do their transactions.
+- Users can search for a book using either Book Title, ISBN, or Class Type
+- Non-Registered users will still be able to use the app
+
+- Implement a MySQL database to hold all of the information about textbooks, clients, purchase history, etc.
+
+-Users can bookmark specific textbooks and get notified when someone puts a copy up for sale.
+- Users can customize profile with a variety of relevant options
+- Users can rent a book, requiring them to return it to the original owner by a specified date.
+- Users can use location services to help users find people who are offering books.
